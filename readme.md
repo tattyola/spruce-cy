@@ -1,5 +1,6 @@
-[link here](https://spruceholdings.github.io/rugged-frontend/)
-[link here](https://github.com/spruceholdings/rugged-frontend)
+[website](https://spruceholdings.github.io/rugged-frontend/)
+
+[repo](https://github.com/spruceholdings/rugged-frontend)
 
 #to start:
 npm install
