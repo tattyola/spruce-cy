@@ -10,9 +10,5 @@ describe('React app', function () {
         cy.get('select[data-testid="select-input"]').select('coconut');
         cy.get('input[data-testid="checkbox-input"]').check();
         cy.get('button').click();
-
-
-
-
     })
 })
